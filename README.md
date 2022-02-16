@@ -1,4 +1,4 @@
-# Travel-Thru-Air-Assignment-3
+# Travel-Thru-Air
 ## Problem statement:
   Implement a web application for “Travel Thru Air” using servlets to support the following two use cases:
   1. A list of current special deals must appear on the home page. Each special deal must display the departure
